@@ -1,69 +1,76 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B+Merhaba%2C+ben+%C3%96nder!;%F0%9F%9A%80+Tech+Enthusiast+%7C+Code+Lover;%F0%9F%8F%82+Snowboard+%7C+%F0%9F%8F%8D%EF%B8%8F+Motorcycle;%F0%9F%8E%B5+Techno+%26+Anadolu+Rock" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0969DA,100:58A6FF&height=220&section=header&text=%C3%96nder%20%7C%20byGOG&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Building%20the%20future%2C%20one%20commit%20at%20a%20time.&descAlignY=57&descSize=17&animation=fadeIn" width="100%" alt="Önder | byGOG" />
+
+### Merhaba, ben Önder 👋
+
+**Teknoloji meraklısı · Açık kaynak tutkunu · Dijital dünya kaşifi**
+
+Bursa'dan; kullanışlı araçlar geliştiriyor, yeni teknolojiler keşfediyor<br>
+ve fikirleri çalışan ürünlere dönüştürüyorum.
+
+[![GitHub](https://img.shields.io/badge/GitHub-byGOG-181717?style=flat-square&logo=github)](https://github.com/byGOG)
+[![Location](https://img.shields.io/badge/Bursa-T%C3%BCrkiye-E30A17?style=flat-square&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Bursa)
+[![Email](https://img.shields.io/badge/Email-Ond3rkor%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Ond3rkor@gmail.com)
 
 </div>
 
----
-
-### :man_technologist: About Me
+## Hakkımda
 
 ```yaml
-name: "Önder"
-location: "Bursa, Türkiye"
-interests: ["Technology", "Software", "Open Source"]
-hobbies: ["Snowboard", "Motorcycle", "Nature"]
-music: ["Techno", "Anadolu Rock"]
-motto: "Building the future, one commit at a time"
+name: Önder
+focus: [Technology, Software, Open Source]
+currently_building: Useful tools for everyday workflows
+outside_the_screen: [Snowboard, Motorcycle, Nature]
+soundtrack: [Techno, Anadolu Rock]
 ```
 
----
-
-### :hammer_and_wrench: Tech Stack
+## Teknoloji Çantam
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111)
 
 </div>
 
----
-
-### :bar_chart: GitHub Stats
+## Öne Çıkan Proje
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=byGOG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=byGOG&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="170" />
+[![StashZero](https://github-readme-stats.vercel.app/api/pin/?username=byGOG&repo=StashZero&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF)](https://github.com/byGOG/StashZero)
+
+**StashZero** — Windows için minimalist, hızlı ve güçlü uygulama yönetimi ve sistem optimizasyon aracı.
 
 </div>
+
+## GitHub Özeti
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byGOG&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=byGOG&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" height="165" alt="GitHub istatistikleri" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byGOG&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E" height="165" alt="En çok kullanılan diller" />
+
+<img src="https://streak-stats.demolab.com?user=byGOG&theme=transparent&hide_border=true&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub katkı serisi" />
 
 </div>
 
----
+## Ekran Dışında
 
-### :zap: Fun Facts
+🏂 Kış gelince dağlardayım &nbsp;·&nbsp; 🏍️ İki teker üstünde özgürüm<br>
+🌲 Doğa benim şarj istasyonum &nbsp;·&nbsp; 🎧 Kod yazarken Techno, yolda Anadolu Rock
 
-- :snowboarder: Kış gelince dağlardayım
-- - :motorcycle: İki teker üstünde özgürlük
-  - - :evergreen_tree: Doğa benim şarj istasyonum
-    - - :headphones: Kod yazarken Techno, yolda Anadolu Rock
-     
-      - ---
+<div align="center">
 
-      <div align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=byGOG&color=0969DA&style=flat-square&label=Profil+G%C3%B6r%C3%BCnt%C3%BClenmesi)
 
-      ![Profile Views](https://komarev.com/ghpvc/?username=byGOG&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:0969DA,100:0D1117&height=100&section=footer" width="100%" alt="" />
 
-      </div>
+</div>
