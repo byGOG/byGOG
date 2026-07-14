@@ -25,12 +25,6 @@ Bursa'dan kullanışlı araçlar geliştiriyor, yeni teknolojiler keşfediyor ve
 `Python` · `JavaScript` · `HTML` · `CSS` · `PowerShell`<br>
 `Git` · `GitHub` · `Windows` · `Linux`
 
-### Öne Çıkan Proje
-
-#### [StashZero](https://github.com/byGOG/StashZero)
-
-Windows için minimalist, hızlı ve güçlü bir uygulama yönetimi ve sistem optimizasyon aracı.
-
 ### Ekran Dışında
 
 🏂 Snowboard · 🏍️ Motosiklet · 🌲 Doğa<br>
